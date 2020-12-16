@@ -7,7 +7,10 @@
 На тестирование затрачено: 1,5 часа
 
 В результате тестирования выявлены следующие дефекты:
-* [Bug](https://github.com/boog25/CreditCard/issues/1#issue-767918711)
+* [Карты МИР не прошли валидацию в приложении Credit Card Number Validator](https://github.com/boog25/CreditCard/issues/2#issue-768463920)
+* [Карты American Express не прошли валидацию в приложение Credit Card Number Validator](https://github.com/boog25/CreditCard/issues/1#issue-767918711)
+
+
 
 ## Описание процесса тестирования
 
